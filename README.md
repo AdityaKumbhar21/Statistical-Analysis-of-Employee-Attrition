@@ -3,6 +3,7 @@
 This project analyzes employee attrition using statistical methods and visualizations. By exploring key workplace features like age, distance from home, relationship satisfaction, and work-life balance, the goal is to identify patterns that contribute to employee turnover.
 
 ---
+Dataset used - [Link][https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset]
 
 ## 📁 Repository Structure
 
@@ -21,7 +22,7 @@ This project analyzes employee attrition using statistical methods and visualiza
 
 ---
 
-## 🧪 Statistical Techniques Used
+## Statistical Techniques Used
 
 | Variable                     | Test Used          | Hypothesis                                                | Result                  |
 |-----------------------------|--------------------|------------------------------------------------------------|--------------------------|
