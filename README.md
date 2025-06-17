@@ -8,7 +8,7 @@ Dataset used - [Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analy
 ## 📁 Repository Structure
 
 - `statistics_project.ipynb` – Main Jupyter Notebook with analysis, visualizations, and hypothesis testing
-- `presentation/` – PowerPoint presentation summarizing the project
+- `presentation` – [PowerPoint presentation summarizing the project](https://www.canva.com/design/DAGqPOfhtms/eZ3ASPFv_K9xRR2vfpvIVw/view?utm_content=DAGqPOfhtms&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfcb102408e)
 - `README.md` – This file
 
 ---
